@@ -6,18 +6,21 @@ permalink: /about/
 
 <p align="center">
     More details: 
-    <a href="https://www.dropbox.com/s/mgwiep5aiesis9q/CV_Jingbo_Shang_20181125.pdf?dl=1">
-        <img alt="PDF version CV" src="https://img.shields.io/badge/Curriculum Vitae-PDF-blue.svg">
+        <img alt="PDF version CV" src="file:///Users/generalozochiawaeze/Downloads/General_s_CV.pdf">
     </a>
 </p>
 
 
 # <center>Short Bio</center>
 
-I am a final-year Ph.D. student in Prof. [Jiawei Han](http://hanj.cs.illinois.edu/)'s [Data Mining Group](http://dm1.cs.uiuc.edu/) at [CS@Illinois](https://cs.illinois.edu/), and a [Google PhD Fellow](https://ai.google/research/outreach/phd-fellowship). I received my B.E. from Computer Science Department, Shanghai Jiao Tong Univ. (SJTU), China, where I was a member of the 2010 [ACM Honored class](http://acm.sjtu.edu.cn/), now part of Zhiyuan College in SJTU. 
+I am a 2nd year Mathematics PhD student at Purdue University - West Lafayette.
 
-My research focuses on developing principled *data-driven* approaches, with *little human curation and labeling*, to transform unstructured text data into structured heterogeneous information networks, on which actionable knowledge can be further uncovered flexibly and effectively based on user's instructions.
+My research interests include Applied PDEs, specifically Forward & Inverse Scattering Problems.
 
-My research has been recognized by many prestigious awards, including Computer Science Excellence Scholarship from CS@Illinois, Grand Prize of Yelp Dataset Challenge in 2015, Google PhD Fellowship in Structured Data and Database Management in 2017, and C.W. Gear Outstanding Graduate Award in 2018.
+Some topics that interest me:
 
-In addition, I love competitive programming contests, such as ACM/ICPC, Topcoder Open, Google Codejam, Facebook Hackercup, etc. I'm now the coach of the UIUC's ACM/ICPC team and I enjoy mentoring and coaching students.
+Acoustic, Elastic, and Electromagnetic Wave Propagation in Complex Media
+Direct & Inverse Scattering Problems in Partial Differential Equations
+Finite Element Methods
+Applications to sonar imaging, geophysical exploration & nondestructive testing.
+I studied math and philosophy as an undergrad at Rutgers University. Additionally, I completed my MS in Applied Mathematics at New Jersey Institute of Technology (NJIT), where I worked with Dr. Christina Frederick in direct and inverse scattering problems arising in underwater acoustics.
