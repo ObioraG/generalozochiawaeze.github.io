@@ -4,12 +4,7 @@ title:
 permalink: /about/
 ---
 
-<p align="center">
-    More details: 
-        <img alt="PDF version CV" src="file:///Users/generalozochiawaeze/Downloads/General_s_CV.pdf">
-    </a>
-</p>
-
+![image](files://C:/Users/generalozochiawaeze/Downloads/mypicbirs.png)
 
 # <center>Short Bio</center>
 
