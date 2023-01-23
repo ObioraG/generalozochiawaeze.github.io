@@ -4,7 +4,7 @@ title:
 permalink: /about/
 ---
 
-[[images/mypicbirs.png]]
+
 
 # <center>Short Bio</center>
 
