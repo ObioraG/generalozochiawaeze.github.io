@@ -9,5 +9,6 @@ permalink: /expository notes/
 </p>
 
 ### <center>2022</center>
--**Finite Element Modeling of Underwater Acoustic Environmemts**-Talk I gave in Purdue Math Student Colloquium
-file:///Users/generalozochiawaeze/Downloads/FEM_Undersea_Acoustics.pdf
+- **Finite Element Modeling of Underwater Acoustic Environmemts**
+  * Talk I gave in Purdue Math Student Colloquium
+  *file:///Users/generalozochiawaeze/Downloads/FEM_Undersea_Acoustics.pdf
