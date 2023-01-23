@@ -15,6 +15,7 @@ A selection of my <b>experiences</b>, grouped by categories.
   * Ocean Engineering & Signal Processing Engineering Intern
 - **NJIT**, Newark, NJ, July 2020 - May 2021
   * Research Assistant & Graduate Researcher
+  
 -**Accel Learning**, Secaucus NJ, Sep 2020-Dec 2020
  * Mathematics Instructor
  
