@@ -4,7 +4,7 @@ title:
 permalink: /about/
 ---
 
-<img src="img/mypicbirs.jpg" class="img-responsive" alt="" width="400"
+<img src="img/mypicbirs.jpg" class="img-responsive" alt="" width="500"
   height="341"> 
 # <center>Short Bio</center>
 
