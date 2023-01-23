@@ -19,6 +19,7 @@ A selection of my <b>experiences</b>, grouped by categories.
  * Mathematics Instructor
 -**Mathnasium**, Glen Rock NJ, Sep 2018-Jan 2019
  * Mathematics Instructor & Tutor
+
 ## <center>More Teaching & Mentoring</center>
 
 - **Instructor of Record & GTA**, [MA 261, Multivariable Calculus](Purdue, Autumn 2022
@@ -26,7 +27,7 @@ A selection of my <b>experiences</b>, grouped by categories.
 - **Instructor of Record & GTA**, [MA 161, Calculus I](Purdue, Autumn 2021
 - **Teaching Assistant & Recitation Instructor**, [Pre-Calculus](NJIT, Autumn 2019, Spring 2020
 - **Little Ivy Academy-STEAM Summer Camp Counselor**, June - Aug 2021
-- *Taught classes in robotics, programming smartphone apps in C#, stop animation movies, and website design
+ (Taught classes in robotics, programming smartphone apps in C#, stop animation movies, and website design)
 
 
 
