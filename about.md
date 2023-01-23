@@ -4,7 +4,7 @@ title:
 permalink: /about/
 ---
 
-
+![My Image](file:///Users/generalozochiawaeze/Downloads/mypicbirs.jpg)
 
 # <center>Short Bio</center>
 
