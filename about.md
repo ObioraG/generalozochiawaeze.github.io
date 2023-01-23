@@ -4,7 +4,7 @@ title:
 permalink: /about/
 ---
 
-<img src="img/file:///Users/generalozochiawaeze/Downloads/mypicbirs.jpg" class="img-responsive" alt=""  width="600"
+<img src="img/mypicbirs.jpg" class="img-responsive" alt=""  width="600"
     height="541"> 
 # <center>Short Bio</center>
 
