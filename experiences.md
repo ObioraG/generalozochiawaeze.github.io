@@ -16,10 +16,10 @@ A selection of my <b>experiences</b>, grouped by categories.
 - **NJIT**, Newark, NJ, July 2020 - May 2021
   * Research Assistant & Graduate Researcher
   
--**Accel Learning**, Secaucus NJ, Sep 2020-Dec 2020
+- **Accel Learning**, Secaucus NJ, Sep 2020-Dec 2020
  * Mathematics Instructor
  
--**Mathnasium**, Glen Rock NJ, Sep 2018-Jan 2019
+- **Mathnasium**, Glen Rock NJ, Sep 2018-Jan 2019
  * Mathematics Instructor & Tutor
 
 ## <center>More Teaching & Mentoring</center>
