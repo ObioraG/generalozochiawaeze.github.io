@@ -3,7 +3,7 @@ layout: page
 title: 
 permalink: /about/
 ---
-# <center>Short Bio</center>
+ <center>Short Bio</center>
 
 I am a 2nd year Mathematics PhD student at Purdue University - West Lafayette.
 
@@ -17,5 +17,5 @@ Some topics that interest me:
 - **Applications to sonar imaging, geophysical exploration & nondestructive testing.**
 
 I studied math and philosophy as an undergrad at Rutgers University. Additionally, I completed my MS in Applied Mathematics at New Jersey Institute of Technology (NJIT), where I worked with Dr. Christina Frederick in direct and inverse scattering problems arising in underwater acoustics.
-# <a href="https://obiorag.github.io/img/mypicbirs.jpg" target="_blank">My Photo.</a>
+ <a href="https://obiorag.github.io/img/mypicbirs.jpg" target="_blank">My Photo.</a>
 
