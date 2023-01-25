@@ -2,6 +2,9 @@
 layout: page
 title: 
 permalink: /about/
+profile:
+  align: right
+  image: FEM_Underwater_Acoustic.jpg
 ---
 
 <img src="img/mypicbirs.jpg" class="img-responsive" alt=""  width="400"
