@@ -24,7 +24,7 @@ description: Welcome to General Ozochiawaeze's Homepage!
 # List of links in the navigation bar
 navbar-links:
   About Me: "about"
-  Expository Notes: "expository notes"
+  Research: "research"
   Experiences: "experiences"
 
 # Image to show in the navigation bar - image must be a square (width = height)
