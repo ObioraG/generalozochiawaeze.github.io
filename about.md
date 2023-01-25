@@ -4,7 +4,7 @@ title:
 permalink: /about/
 profile:
   align: right
-  image: FEM_Underwater_Acoustic.jpg
+  image: mypicbirs.jpg
 ---
 
 <img src="img/mypicbirs.jpg" class="img-responsive" alt=""  width="400"
