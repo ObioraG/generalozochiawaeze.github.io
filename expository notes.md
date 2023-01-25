@@ -1,11 +1,11 @@
 ---
 layout: page
 title: 
-permalink: /expository notes/
+permalink: /research/
 ---
 
 <p align="center">
-  My <b>Expository Notes</b> & <b>Slides</b> for Talks given, sorted by time.
+  My <b>Research</b>, <b>Expository Notes</b> & <b>Slides</b> for Talks given, sorted by time.
 </p>
 
 ### <center>2022</center>
