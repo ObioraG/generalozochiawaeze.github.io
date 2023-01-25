@@ -3,9 +3,8 @@ layout: page
 title: 
 permalink: /about/
 ---
-<img src="img/mypicbirs.jpg" alt=""  width="400"
-    height="400">
- <a href="./"><img src="./Files/mypicbirs.jpg" alt="" height="215px" /></a>&nbsp;</td>              
+
+ <a href="./"><img src="./Files/mypicbirs.jpg" alt="" height="215px" />              
  
 # <center>Short Bio</center>
 
