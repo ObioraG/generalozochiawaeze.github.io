@@ -7,8 +7,7 @@ profile:
   image: mypicbirs.jpg
 ---
 
-<img src="img/mypicbirs.jpg" class="img-responsive" alt=""  width="400"
-    height="400">
+
  
 # <center>Short Bio</center>
 
