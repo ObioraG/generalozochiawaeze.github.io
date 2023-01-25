@@ -4,9 +4,6 @@ title:
 permalink: /about/
 ---
 
-<table class="imgtable"><tr><td>
-<a href="./"><img src="./Files/mypicbirs.jpg" alt="" height="215px" />         
- 
 # <center>Short Bio</center>
 
 I am a 2nd year Mathematics PhD student at Purdue University - West Lafayette.
