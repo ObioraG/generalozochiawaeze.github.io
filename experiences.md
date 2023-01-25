@@ -22,10 +22,10 @@ A selection of my <b> work experience</b>, grouped by categories.
 
 ## <center>More Teaching & Mentoring</center>
 
-- **Instructor of Record & GTA**, [MA 261, Multivariable Calculus](Purdue, Autumn 2022)
+- **Instructor of Record & GTA**, [MA 261, Multivariable Calculus] (Purdue, Autumn 2022)
 - **Instructor of Record & GTA**, [MA 162, Calculus II] (Purdue, Spring 2022)
-- **Instructor of Record & GTA**, [MA 161, Calculus I](Purdue, Autumn 2021)
-- **Teaching Assistant & Recitation Instructor**, [Pre-Calculus & Probability & Statistics](NJIT, Autumn 2019, Spring 2020, Autumn 2020, Spring 2021)
+- **Instructor of Record & GTA**, [MA 161, Calculus I] (Purdue, Autumn 2021)
+- **Teaching Assistant & Recitation Instructor**, [Pre-Calculus & Probability & Statistics] (NJIT, Autumn 2019, Spring 2020, Autumn 2020, Spring 2021)
 - **Little Ivy Academy-STEAM Summer Camp Counselor**, June 2021 - Aug 2021
  (Taught classes in robotics, programming smartphone apps in C#, stop animation movies, and website design)
 
