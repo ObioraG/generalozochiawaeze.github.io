@@ -5,7 +5,7 @@ permalink: /experiences/
 ---
 
 <p align="center">
-A selection of my <b>experiences</b>, grouped by categories.
+A selection of my <b> work experience</b>, grouped by categories.
 </p>
 
 ## <center>Employments</center>
