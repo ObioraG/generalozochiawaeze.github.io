@@ -3,7 +3,7 @@ layout: page
 title: 
 permalink: /about/
 ---
-<img src="./img/https.//obiorag.github.io/mypicbirs.jpg" alt="" height="280px" />
+<img src="https.//obiorag.github.io/img/mypicbirs.jpg" alt="" height="280px" />
 
 # <center>Short Bio</center>
 
