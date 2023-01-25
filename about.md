@@ -3,7 +3,7 @@ layout: page
 title: 
 permalink: /about/
 ---
-<img src="./img/mypicbirs.jpg" alt="" height="255px" />
+<img src="./img/mypicbirs.jpg" alt="" height="280px" />
 
 # <center>Short Bio</center>
 
