@@ -8,7 +8,7 @@ permalink: /experiences/
 A selection of my <b> work experience</b>, grouped by categories.
 </p>
 
-## <center>Employments</center>
+## <center>Employment</center>
 
 - **MIT Lincoln Laboratory**, Lexington, MA,  May 2022 - Aug 2022
   * Summer Research Intern, Group 37-Advanced Undersea Systems & Technology Group 
