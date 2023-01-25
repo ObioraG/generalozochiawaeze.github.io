@@ -4,7 +4,8 @@ title:
 permalink: /about/
 ---
 
- <a href="./"><img src="./Files/mypicbirs.jpg" alt="" height="215px" />              
+<table class="imgtable"><tr><td>
+<a href="./"><img src="./Files/mypicbirs.jpg" alt="" height="215px" />         
  
 # <center>Short Bio</center>
 
