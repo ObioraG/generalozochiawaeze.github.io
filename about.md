@@ -4,6 +4,8 @@ title:
 permalink: /about/
 ---
 
+  
+  
   <center> <b> Short Bio </b> </center>
 
 I am a 2nd year Mathematics PhD student at Purdue University - West Lafayette.
