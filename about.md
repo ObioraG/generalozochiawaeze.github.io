@@ -6,8 +6,8 @@ permalink: /about/
 
   
   
-  <center> <b> Short Bio </b> </center>
-
+  
+    <center> <b> Short Bio </b> </center>
 I am a 2nd year Mathematics PhD student at Purdue University - West Lafayette.
 
 My research interests include Applied PDEs, specifically Forward & Inverse Scattering Problems.
