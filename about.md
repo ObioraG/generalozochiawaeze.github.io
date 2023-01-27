@@ -23,4 +23,5 @@ Some topics that interest me:
 I studied math and philosophy as an undergrad at Rutgers University. Additionally, I completed my MS in Applied Mathematics at New Jersey Institute of Technology (NJIT), where I worked with Dr. Christina Frederick in direct and inverse scattering problems arising in underwater acoustics.
 
  <a href="https://obiorag.github.io/img/mypicbirs.jpg" target="_blank">My Photo.</a>
-
+ 
+<H3>My CV</H3>
