@@ -25,3 +25,4 @@ I studied math and philosophy as an undergrad at Rutgers University. Additionall
  <a href="https://obiorag.github.io/img/mypicbirs.jpg" target="_blank">My Photo.</a>
  
 <H3>My CV</H3>
+<a href="https://obiorag.github.io/files/General_CV" target="_blank">Curriculum Vitae.</a>
