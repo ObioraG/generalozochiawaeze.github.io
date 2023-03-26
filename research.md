@@ -9,7 +9,7 @@ permalink: /research/
 </p>
 ### <center>2023</center>
 - **Exposition on Qualitative Methods in Inverse Scattering**
--  * <a href="https://obiorag.github.io/files/FEM_Undersea_Acoustics.pdf" target="_blank">PDF.</a>
+-  * <a href="https://obiorag.github.io/files/Exposition_on_Qualitative_Inverse_Problems.pdf" target="_blank">PDF.</a>
 ### <center>2022</center>
 - **Finite Element Modeling of Underwater Acoustic Environments**
   * Talk I gave in Purdue Math Student Colloquium, based on MS Research
