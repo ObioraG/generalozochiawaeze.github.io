@@ -13,6 +13,7 @@ permalink: /research/
 ### <center>2022</center>
 - **Finite Element Modeling of Underwater Acoustic Environments**
   * Talk I gave in Purdue Math Student Colloquium, based on MS Research
-  * <a href="https://obiorag.github.io/files/FEM_Undersea_Acoustics.pdf" target="_blank">PDF.</a>
+  * <a href="https://obiorag.github.io/files/FEM_Undersea_Acoustics.pdf" target="_blank">FEM_Undersea_Acoustics_Slides.</a>
+  * <a href="https://obiorag.github.io/files/Finite element modeling of underwater acoustic environments and d.pdf" target="_blank">MS Thesis.</a>
 
 
