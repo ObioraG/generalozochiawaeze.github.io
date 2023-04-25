@@ -5,10 +5,10 @@ permalink: /research/
 ---
 ---
 
-<h3>Notes</h3>
+<h3>Writings</h3>
 
-The usual warning holds: many of these documents have not been proofread, so
-there's a chance they contain mistakes. Caveat lector! Please send me an email
+The usual warning holds: some of the exposition has not been proofread, so
+there's a chance they contain mistakes. Please send me an email
 if you have any comments.
 
 * <a href="https://obiorag.github.io/files/Exposition_on_Qualitative_Inverse_Problems.pdf" target="_blank">Overview of Qualitative Inverse Problems</a>
