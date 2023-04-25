@@ -12,7 +12,7 @@ A selection of my <b> work experience</b>, grouped by categories.
 
 - **MIT Lincoln Laboratory**, Lexington, MA,  May 2022 - Aug 2022
   * Summer Research Intern, Group 37-Advanced Undersea Systems & Technology Group 
-  * Ocean Engineering & Signal Processing Engineering Intern
+  * Project in Undersea Signal Processing Engineering
 - **NJIT**, Newark, NJ, July 2020 - May 2021
   * Research Assistant & Graduate Researcher
 - **Accel Learning**, Secaucus NJ, Sep 2020-Dec 2020
