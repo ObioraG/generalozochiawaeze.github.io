@@ -21,7 +21,7 @@ A selection of my <b> work experience</b>, grouped by categories.
   * Mathematics Instructor & Tutor
 
 
-## <h3> Teaching and Mentoring</h3>
+## <center>Teaching and Mentoring</center>
 
 * In Spring 2023, I'm a teaching assistant for MA 511- Linear Algebra and Applications
 * In Fall 2022, I was teaching MA 251 (Multivariable Calculus)
