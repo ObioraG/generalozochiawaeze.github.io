@@ -20,14 +20,15 @@ A selection of my <b> work experience</b>, grouped by categories.
 - **Mathnasium**, Glen Rock NJ, Sep 2018-Jan 2019
   * Mathematics Instructor & Tutor
 
-## <center>More Teaching & Mentoring</center>
 
-- **Instructor of Record & GTA**, [MA 261, Multivariable Calculus] (Purdue, Autumn 2022)
-- **Instructor of Record & GTA**, [MA 162, Calculus II] (Purdue, Spring 2022)
-- **Instructor of Record & GTA**, [MA 161, Calculus I] (Purdue, Autumn 2021)
-- **Teaching Assistant & Recitation Instructor**, [Pre-Calculus & Probability & Statistics] (NJIT, Autumn 2019, Spring 2020, Autumn 2020, Spring 2021)
-- **Little Ivy Academy-STEAM Summer Camp Counselor**, June 2021 - Aug 2021
- (Taught classes in robotics, programming smartphone apps in C#, stop animation movies, and website design)
+## <h3> Teaching and Mentoring</h3>
+
+* In Spring 2023, I'm a teaching assistant for MA 511- Linear Algebra and Applications
+* In Fall 2022, I was teaching MA 251 (Multivariable Calculus)
+* In Spring 2022, I was teaching MA 162 (Calculus II)
+* In Fall 2021, I was teaching MA 161 (Calculus I)
+* In 2020, I was additionally mentoring students for the AMC and AIME mathematics competitions
+
 
 
 
