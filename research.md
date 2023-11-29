@@ -5,7 +5,7 @@ permalink: /research/
 ---
 ---
 
-<h3>Writings</h3>
+<h3>Research</h3>
 
 
 
