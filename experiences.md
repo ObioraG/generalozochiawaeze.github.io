@@ -9,6 +9,8 @@ A selection of my <b> work experience</b>, grouped by categories.
 </p>
 
 ## <center>Employment</center>
+- **Purdue University**, West Lafayette, IN, Aug 2023 - Present
+  * Graduate Research Assistant
 - **MIT Lincoln Laboratory**, Lexington, MA,  May 2023 - Oct 2023
   * Summer Research Intern, Group 36-Integrated Missile Defense Technology 
   * Project in Compressive ISAR Radar Imaging
