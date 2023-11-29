@@ -9,7 +9,9 @@ A selection of my <b> work experience</b>, grouped by categories.
 </p>
 
 ## <center>Employment</center>
-
+- **MIT Lincoln Laboratory**, Lexington, MA,  May 2023 - Oct 2023
+  * Summer Research Intern, Group 36-Integrated Missile Defense Technology 
+  * Project in Compressive ISAR Radar Imaging
 - **MIT Lincoln Laboratory**, Lexington, MA,  May 2022 - Aug 2022
   * Summer Research Intern, Group 37-Advanced Undersea Systems & Technology Group 
   * Project in Undersea Signal Processing Engineering
