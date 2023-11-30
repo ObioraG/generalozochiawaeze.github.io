@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: page
 title: ""
 permalink: /experiences/
 author_profile: true
