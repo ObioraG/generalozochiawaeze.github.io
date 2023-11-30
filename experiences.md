@@ -11,23 +11,23 @@ classes: wide
 ---
 
  **Purdue University**, West Lafayette, IN, Aug 2023 - Present
-  * Graduate Research Assistant
+   Graduate Research Assistant
     
 **MIT Lincoln Laboratory**, Lexington, MA,  May 2023 - Oct 2023
-  * Summer Research Intern, Group 36-Integrated Missile Defense Technology 
-  * Project in Compressive ISAR Radar Imaging
+  Summer Research Intern, Group 36-Integrated Missile Defense Technology 
+  Project in Compressive ISAR Radar Imaging
     
 **MIT Lincoln Laboratory**, Lexington, MA,  May 2022 - Aug 2022
-  * Summer Research Intern, Group 37-Advanced Undersea Systems & Technology Group 
-  * Project in Undersea Signal Processing Engineering
+  Summer Research Intern, Group 37-Advanced Undersea Systems & Technology Group 
+  Project in Undersea Signal Processing Engineering
     
 **NJIT**, Newark, NJ, July 2020 - May 2021
-  * Research Assistant & Graduate Researcher
+  Research Assistant & Graduate Researcher
     
 **Accel Learning**, Secaucus NJ, Sep 2020-Dec 2020
-  * Mathematics Instructor
+  Mathematics Instructor
 **Mathnasium**, Glen Rock NJ, Sep 2018-Jan 2019
-  * Mathematics Instructor & Tutor
+  Mathematics Instructor & Tutor
 
 
 ### Teaching and Mentoring
