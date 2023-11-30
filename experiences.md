@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: "Work Experience"
 permalink: /experiences/
 author_profile: true
 classes: wide
