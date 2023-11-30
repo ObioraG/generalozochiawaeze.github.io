@@ -2,6 +2,7 @@
 layout: archive
 title: 
 permalink: /about/
+classes: wide
 ---
 
   
