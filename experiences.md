@@ -23,9 +23,11 @@ classes: wide
     
 **NJIT**, Newark, NJ, July 2020 - May 2021
   * Research Assistant & Graduate Researcher
-  * Project in Finite Element Modeling for Underwater Acoustic Wave Scattering  
+  * Project in Finite Element Modeling for Underwater Acoustic Wave Scattering
+    
 **Accel Learning**, Secaucus NJ, Sep 2020-Dec 2020
   * Mathematics Instructor
+    
 **Mathnasium**, Glen Rock NJ, Sep 2018-Jan 2019
   * Mathematics Instructor & Tutor
 
