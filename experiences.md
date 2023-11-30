@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: ""
 permalink: /experiences/
 author_profile: true
 classes: wide
