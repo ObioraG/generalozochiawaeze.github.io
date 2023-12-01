@@ -2,6 +2,8 @@
 layout: page
 title: 
 permalink: /research/
+author_profile: true
+classes: wide
 ---
 ---
 
