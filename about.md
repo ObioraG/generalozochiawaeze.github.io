@@ -2,6 +2,7 @@
 layout: page
 title: 
 permalink: /about/
+author_profile: true
 classes: wide
 ---
 
