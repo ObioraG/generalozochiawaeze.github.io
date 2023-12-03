@@ -15,6 +15,7 @@ classes: wide
 * <a href="https://obiorag.github.io/files/Finite element modeling of underwater acoustic environments and d.pdf" target="_blank">MS Thesis.</a> A copy of my Master's Thesis
 
 <h3>Talks</h3>
+
 * <a href="https://obiorag.github.io/files/FEM_Undersea_Acoustics.pdf" target="_blank">Finite Element Methods for Undersea Acoustics</a> Slides for a talk I gave in Purdue math student colloquium.
 
 
