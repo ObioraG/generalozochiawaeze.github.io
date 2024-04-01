@@ -16,7 +16,10 @@ classes: wide
 
 <h3>Talks</h3>
 
+* <a href="https://obiorag.github.io/files/A linear sampling method for the inverse cavity scattering problem of biharmonic waves - My Advanced Topics Presentation.pdf" target="_blank">My Advanced Topics Presentation</a> LSM for the inverse cavity scattering problem of biharmonic waves.
 * <a href="https://obiorag.github.io/files/FEM_Undersea_Acoustics.pdf" target="_blank">Finite Element Methods for Undersea Acoustics</a> Slides for a talk I gave in Purdue math student colloquium.
+
+
 
 
 
