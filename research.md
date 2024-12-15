@@ -10,7 +10,7 @@ classes: wide
 <h3>Research</h3>
 
 
-* A Linear Sampling Method for the Inverse Cavity Scattering Problem of Biharmonic Waves, in preparation, 2024
+* A Linear Sampling Method for the Inverse Cavity Scattering Problem of Biharmonic Waves, in preparation, 2024-2025
 * <a href="https://obiorag.github.io/files/Finite element modeling of underwater acoustic environments and d.pdf" target="_blank">MS Thesis.</a> A copy of my Master's Thesis
 <h3>Expository</h3>
 
